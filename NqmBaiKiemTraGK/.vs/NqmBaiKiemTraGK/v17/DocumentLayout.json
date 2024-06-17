@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\asp.net\\NqmBaiKiemTraGK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C6C55C-6011-4BDD-83FB-67D67B7D54EB}|NqmBaiKiemTraGK\\NqmBaiKiemTraGK.csproj|d:\\asp.net\\nqmbaikiemtragk\\nqmbaikiemtragk\\views\\shared\\_nqmlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5C6C55C-6011-4BDD-83FB-67D67B7D54EB}|NqmBaiKiemTraGK\\NqmBaiKiemTraGK.csproj|solutionrelative:nqmbaikiemtragk\\views\\shared\\_nqmlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C6C55C-6011-4BDD-83FB-67D67B7D54EB}|NqmBaiKiemTraGK\\NqmBaiKiemTraGK.csproj|d:\\asp.net\\nqmbaikiemtragk\\nqmbaikiemtragk\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5C6C55C-6011-4BDD-83FB-67D67B7D54EB}|NqmBaiKiemTraGK\\NqmBaiKiemTraGK.csproj|solutionrelative:nqmbaikiemtragk\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C6C55C-6011-4BDD-83FB-67D67B7D54EB}|NqmBaiKiemTraGK\\NqmBaiKiemTraGK.csproj|d:\\asp.net\\nqmbaikiemtragk\\nqmbaikiemtragk\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5C6C55C-6011-4BDD-83FB-67D67B7D54EB}|NqmBaiKiemTraGK\\NqmBaiKiemTraGK.csproj|solutionrelative:nqmbaikiemtragk\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C6C55C-6011-4BDD-83FB-67D67B7D54EB}|NqmBaiKiemTraGK\\NqmBaiKiemTraGK.csproj|d:\\asp.net\\nqmbaikiemtragk\\nqmbaikiemtragk\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5C6C55C-6011-4BDD-83FB-67D67B7D54EB}|NqmBaiKiemTraGK\\NqmBaiKiemTraGK.csproj|solutionrelative:nqmbaikiemtragk\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C6C55C-6011-4BDD-83FB-67D67B7D54EB}|NqmBaiKiemTraGK\\NqmBaiKiemTraGK.csproj|d:\\asp.net\\nqmbaikiemtragk\\nqmbaikiemtragk\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5C6C55C-6011-4BDD-83FB-67D67B7D54EB}|NqmBaiKiemTraGK\\NqmBaiKiemTraGK.csproj|solutionrelative:nqmbaikiemtragk\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C6C55C-6011-4BDD-83FB-67D67B7D54EB}|NqmBaiKiemTraGK\\NqmBaiKiemTraGK.csproj|d:\\asp.net\\nqmbaikiemtragk\\nqmbaikiemtragk\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5C6C55C-6011-4BDD-83FB-67D67B7D54EB}|NqmBaiKiemTraGK\\NqmBaiKiemTraGK.csproj|solutionrelative:nqmbaikiemtragk\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C6C55C-6011-4BDD-83FB-67D67B7D54EB}|NqmBaiKiemTraGK\\NqmBaiKiemTraGK.csproj|d:\\asp.net\\nqmbaikiemtragk\\nqmbaikiemtragk\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A5C6C55C-6011-4BDD-83FB-67D67B7D54EB}|NqmBaiKiemTraGK\\NqmBaiKiemTraGK.csproj|solutionrelative:nqmbaikiemtragk\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\asp.net\\NqmBaiKiemTraGK\\NqmBaiKiemTraGK\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "NqmBaiKiemTraGK\\Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\asp.net\\NqmBaiKiemTraGK\\NqmBaiKiemTraGK\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "NqmBaiKiemTraGK\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T04:32:17.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\asp.net\\NqmBaiKiemTraGK\\NqmBaiKiemTraGK\\Views\\Web.config",
+              "RelativeDocumentMoniker": "NqmBaiKiemTraGK\\Views\\Web.config",
+              "ToolTip": "D:\\asp.net\\NqmBaiKiemTraGK\\NqmBaiKiemTraGK\\Views\\Web.config",
+              "RelativeToolTip": "NqmBaiKiemTraGK\\Views\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-17T04:32:09.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\asp.net\\NqmBaiKiemTraGK\\NqmBaiKiemTraGK\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "NqmBaiKiemTraGK\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\asp.net\\NqmBaiKiemTraGK\\NqmBaiKiemTraGK\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "NqmBaiKiemTraGK\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T04:32:06.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_NqmLayout.cshtml",
+              "DocumentMoniker": "D:\\asp.net\\NqmBaiKiemTraGK\\NqmBaiKiemTraGK\\Views\\Shared\\_NqmLayout.cshtml",
+              "RelativeDocumentMoniker": "NqmBaiKiemTraGK\\Views\\Shared\\_NqmLayout.cshtml",
+              "ToolTip": "D:\\asp.net\\NqmBaiKiemTraGK\\NqmBaiKiemTraGK\\Views\\Shared\\_NqmLayout.cshtml",
+              "RelativeToolTip": "NqmBaiKiemTraGK\\Views\\Shared\\_NqmLayout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T04:31:58.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\asp.net\\NqmBaiKiemTraGK\\NqmBaiKiemTraGK\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "NqmBaiKiemTraGK\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "D:\\asp.net\\NqmBaiKiemTraGK\\NqmBaiKiemTraGK\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "NqmBaiKiemTraGK\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T04:28:37.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\asp.net\\NqmBaiKiemTraGK\\NqmBaiKiemTraGK\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "NqmBaiKiemTraGK\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\asp.net\\NqmBaiKiemTraGK\\NqmBaiKiemTraGK\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "NqmBaiKiemTraGK\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T04:28:27.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\asp.net\\NqmBaiKiemTraGK\\NqmBaiKiemTraGK\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "NqmBaiKiemTraGK\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\asp.net\\NqmBaiKiemTraGK\\NqmBaiKiemTraGK\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "NqmBaiKiemTraGK\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T04:28:13.338Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
